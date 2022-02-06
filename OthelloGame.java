@@ -1,4 +1,4 @@
-/* Auva Amirmokri and Arden Matikyan
+/* Arden Matikyan
  * Othello
  * This program is an othello game between two players
  * Use matrix of picpanels 
